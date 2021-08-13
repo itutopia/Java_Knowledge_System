@@ -18,9 +18,12 @@ Java语言
 
 框架
 * 缓存
-  Redis
+    Redis
 * 消息队列
-  Kakfa
+    Kafka
+* 搜索引擎
+    ElasticSearch
+
   
 数据库
 关系型数据库
@@ -30,6 +33,7 @@ Java语言
 
 列式数据库
 * ClickHouse
+
 
 图数据库
 * neo4j
