@@ -4,43 +4,47 @@ Java_Knowledge_System  By IT乌托邦社区-李俊超
 
 通用技术
 -------
-* 数据结构与算法
-* 操作系统
-* 网络通信
-* 设计模式
+### 数据结构与算法
+### 操作系统
+### 网络通信
+### 设计模式
 
 Java语言
 ------
-* Java
-  JVM
-* Spring
-  Springboot
-  SpringCloud
-* Mybatis
+### Java
+##### JVM
+##### JDK
 
 第三方框架
 ------
-* 缓存
-    Redis
-* 消息队列
-    Kafka
-* 搜索引擎
-    ElasticSearch
+### 缓存
+[Redis](https://redis.io/)
+[mongoDB](https://www.mongodb.com/zh-cn)
 
-  
+### 消息队列
+[Kafka](http://kafka.apache.org/)
+
+### 搜索引擎
+[ElasticSearch](https://www.elastic.co/cn/elasticsearch/)
+
 数据库
 -----
-关系型数据库
-* SQL
-* Mysql
-* Oracle
+### 关系型数据库-RDS(Relational Database Systems) 
+[SQL](https://www.w3cschool.cn/sql/8zragfoj.html)
 
-列式数据库
-* ClickHouse
+[Mysql](https://www.mysql.com/)
+
+[open Gauss](https://opengauss.org/zh/)
+
+[Oracle](https://www.oracle.com/index.html)
+
+### 列式数据库
+OLAP
+[ClickHouse](https://clickhouse.tech/)
 
 
-图数据库
-* neo4j
+### 图数据库
+[neo4j](https://neo4j.com/)
 
 
 
