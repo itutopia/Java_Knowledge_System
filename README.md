@@ -7,7 +7,7 @@ Java_Knowledge_System  By IT乌托邦社区-李俊超
 ### 数据结构与算法
 ### 操作系统
 ### 网络通信
-### 设计模式
+### [设计模式](http://c.biancheng.net/view/1317.html)
 
 Java语言
 ------
