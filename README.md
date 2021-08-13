@@ -39,19 +39,40 @@ Java语言
 * neo4j
 
 
+
 架构:
     单体服务
         Servlet/Jsp + JDBC
-        SpringFramework + Mybatis
-        SpringBoot 
+        [Spring-framework](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html)
+        [Mybatis](https://mybatis.org/mybatis-3/zh/index.html)
     SOA服务
         ESB
         Dubbo
     微服务
-        Spring Cloud
-        Spring Cloud Alibaba
+        * Spring [Spring](https://spring.io/)
+        * SpringBoot 
+        * Spring Cloud
+        * Spring Cloud Alibaba
+            Spring Boot
+            分布式注册中心及配置中心: [Nacos](https://nacos.io/zh-cn/)
+            分布式事务: [Seata](https://seata.io/zh-cn/index.html)
+            流量: Sentinel
+            统一网关: Spring Cloud Gateway
+            服务间调用: Feign
+            分布式链路追踪系统: [Sky walking](http://skywalking.apache.org/)
+            性能监控: Promtheus
+            
+            
+            
+            
+            
         云原生微服务: K8s + Docker + SpringBoot
     Serverless
+
+
+
+
+
 
 
 解决方案
