@@ -63,9 +63,9 @@ Servlet/Jsp + JDBC
 
 ### 微服务
         
-#### SpringBoot 
-#### Spring Cloud Netflix
-#### Spring Cloud Alibaba   
+### [***] SpringBoot 
+
+### [***] Spring Cloud Alibaba   
 
 ###### 分布式注册中心及配置中心: [Nacos](https://nacos.io/zh-cn/)
 ###### 分布式事务: [Seata](https://seata.io/zh-cn/index.html)
@@ -75,18 +75,17 @@ Servlet/Jsp + JDBC
 ###### 分布式链路追踪系统: [Sky walking](http://skywalking.apache.org/)
 ###### 性能监控: Promtheus
             
-            
-            
+
+    
+    
+### Spring Cloud Netflix
+          
 ### 云原生微服务 
 ##### K8s 
 ##### Docker 
 ##### SpringBoot
-    
+
 ### Serverless
-
-
-
-
 
 
 
@@ -102,12 +101,12 @@ Servlet/Jsp + JDBC
 ### 3. 音视频
 
 
-IT公开及外文书籍
+IT书籍
 ------------
 
 
 
-大厂技术文档
+大厂技术面试文档
 ---------
 #### 百度
 #### 阿里巴巴
