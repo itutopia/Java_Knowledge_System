@@ -8,6 +8,8 @@ JKS-Java知识体系(架构师进阶之路)
 ### 知识体系
 ##### [Java架构知识体系](https://www.processon.com/mindmap/61164572f346fb06e5ca0d1c)
 
+##### [语雀文档](https://www.yuque.com/bc4vie/diqegn)
+
 通用技术
 -------
 ### [数据结构与算法](https://github.com/itutopia/Java_Knowledge_System/blob/main/document/jks/datastruct_algorithm/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.md)
