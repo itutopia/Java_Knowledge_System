@@ -1,30 +1,30 @@
-JKS-Java知识体系(架构师进阶之路)
-==========================================
+JKS-Java知识体系(V0.1) 
+-
 公众号: IT乌托邦  
 
 
 文档目录
--------
+=
 ### 知识体系
 ##### [Java架构知识体系](https://www.processon.com/mindmap/61164572f346fb06e5ca0d1c)
 
 ##### [语雀文档](https://www.yuque.com/bc4vie/diqegn)
 
 通用技术
--------
+=
 ### [数据结构与算法](https://github.com/itutopia/Java_Knowledge_System/blob/main/document/jks/datastruct_algorithm/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.md)
 ### 操作系统
 ### 网络通信
 ### [设计模式](http://c.biancheng.net/view/1317.html)
 
 Java语言
-------
+=
 ### Java
 ##### JVM
 ##### JDK
 
 第三方框架
-------
+=
 ### 缓存
 [Redis](https://redis.io/)
 [mongoDB](https://www.mongodb.com/zh-cn)
@@ -36,7 +36,7 @@ Java语言
 [ElasticSearch](https://www.elastic.co/cn/elasticsearch/)
 
 数据库
------
+=
 ### 关系型数据库-RDS(Relational Database Systems) 
 [SQL](https://www.w3cschool.cn/sql/8zragfoj.html)
 
@@ -57,7 +57,7 @@ OLAP
 
 
 系统架构:
------
+=
 ### 单体服务
 Servlet/Jsp + JDBC
 
@@ -116,7 +116,7 @@ Quarkus 是一个为 Java 虚拟机（JVM）和原生编译而设计的全堆栈
 
 
 解决方案
-------
+=
 ### 1. 电商
 ##### 支付
 ##### 物流
@@ -128,18 +128,18 @@ Quarkus 是一个为 Java 虚拟机（JVM）和原生编译而设计的全堆栈
 
 
 IT书籍
-------------
+=
 
 
 
 大厂技术面试文档
----------
-#### 百度
-#### 阿里巴巴
-#### 腾讯
-#### 美团
-#### 网易
-#### 滴滴
+=
+* 百度
+* 阿里巴巴
+* 腾讯
+* 美团
+* 网易
+* 滴滴
 
 
 
